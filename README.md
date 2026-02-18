@@ -3,7 +3,7 @@ This is my first cloud project as I transitioned into cloud engineering.
 ## Project Overview
 A static portfolio website hosted using GitHub pages to document my AWS learning journey.
 ## Skills Demonstrated
-- GitHub redository management
+- GitHub repository management
 - Static website hosting
 - Basic HTML/CSS
 - Version control
